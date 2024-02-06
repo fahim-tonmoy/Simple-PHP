@@ -1,0 +1,2 @@
+<h1> This is a simple PHP crud project 
+<p> To run this project simply just download the the code's from repository and run <b> php -S localhost:"YOUR_PORT" </b> <br/> and make sure to configure php in your local machine
